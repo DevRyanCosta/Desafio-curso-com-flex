@@ -63,7 +63,7 @@ header {
 #banner {
     display: flex;
     justify-content: center;
-    background-image: url("./mulhe_rfeliz.webp");
+    background-image: url("./woman.webp");
     background-position: center;
     background-size: cover;
     height: 800px;
@@ -206,7 +206,7 @@ article .news_thumbnail img {
 article .news_title {
     margin-top: 25px;
     margin-bottom: 25px;
-    text-align: 23px;
+    font-size: 23px;
 }
 
 article a {
